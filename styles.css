@@ -1,0 +1,40 @@
+body {
+  overflow: hidden;
+}
+div{
+  width:2.5px;
+   height:50px;
+   display:inline-block;
+   background-color: #7868e6;
+   margin:1px;
+   color: #7868e6;
+}
+.main{
+    width:615px;
+    height:280px;
+    background: #e4fbff;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 5px;
+    border-color: #b8b5ff;
+    text-align: center;
+    margin: 2.5px 1px;
+}
+button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  background-color: #b8b5ff;
+  color: #e4fbff;
+  border-style: solid;
+  border-radius: 20px;
+  border-width: 5px;
+  border-color: #b8b5ff;
+  padding: 5px 0;
+  transform: translate(-55%, -55%);
+}
+button:hover {
+ color: #b8b5ff;
+ background-color: #e4fbff;
+ border-color: #e4fbff;
+}
