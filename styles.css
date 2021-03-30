@@ -37,4 +37,5 @@ button:hover {
  color: #b8b5ff;
  background-color: #e4fbff;
  border-color: #e4fbff;
+  cursor: pointer;
 }
